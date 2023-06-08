@@ -1,19 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilo.css">
-    <title>Escrituras diarias</title>
+    <title>Swiper demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+    <!-- Link Swiper's CSS -->
+    
+    <link rel="stylesheet" href="./cdn.css">
+    <link rel="stylesheet" href="./estilo.css">
+    <script src="https://kit.fontawesome.com/6d29a0c53e.js" crossorigin="anonymous"></script>
 </head>
+  
 <body>
-    <header>
-        <a href="#">Escritura pasadas</a>
-    </header>
-    <div>
-        <h1 class="titulo">Escritura ejm... Satiago 1:5</h1>
-        <p class="cuerpo">cuerpo de la Escritura</p>
+    <!-- Swiper -->
+    <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">Slide 1</div>
+            <div class="swiper-slide">
+                <img src="./images/PeaceOut000.svg" alt="">
+            </div>
+            <div class="swiper-slide">
+                <img src="./images/noun_project_928.svg" alt="">
+            </div>
+            <div class="swiper-slide">
+                <img src="./images/ribbon-illustration-7-svgrepo-com.svg" alt="">
+            </div>
+            <div class="swiper-slide">
+                <img src="./images/heart-svgrepo-com.svg" alt="">
+            </div>
+            <div class="swiper-slide">Slide 6</div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
     </div>
-</body>
+  
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+  
+    <!-- Initialize Swiper -->
+    <script>
+      var swiper = new Swiper(".mySwiper", {
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    </script>
+  </body>
 </html>
