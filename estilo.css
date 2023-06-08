@@ -33,13 +33,17 @@ body{
 .swiper-slide img {
   display: block;
   width: 50%;
-  height: 50%;
+  height: 30%;
 }
 
-.swp1{
+.swp1, .swp{
   display: flex;
   flex-direction: column;
   padding: 15%;
+}
+
+.swp h3{
+  margin-bottom: 20px;
 }
 
 .swp1 h1{

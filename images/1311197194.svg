@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" viewBox="0 0 720 720" version="1.1" inkscape:version="0.91 r13725">
+  <path id="path2828" style="stroke:#000000;stroke-width:11.009;fill:none" d="m507.48 289.8a108.19 108.19 0 1 1 -216.39 0 108.19 108.19 0 1 1 216.39 0z" transform="matrix(2.9068 0 0 2.9068 -800.65 -482.41)"/>
+  <path id="path2830" style="stroke:#000000;stroke-width:32;fill:none" d="m360 45.5v629"/>
+  <path id="path2834" style="stroke:#000000;stroke-width:32;fill:none" d="m360 360 222.39 222.39"/>
+  <path id="path2836" style="stroke:#000000;stroke-width:32;fill:none" d="m360 360-222.39 222.39"/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>peace sign</dc:title>
+        <dc:date>2011-07-20T21:26:34</dc:date>
+        <dc:description>peace sign</dc:description>
+        <dc:source>https://openclipart.org/detail/150793/peace-sign-by-10binary</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>10binary</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>circle</rdf:li>
+            <rdf:li>peace</rdf:li>
+            <rdf:li>sign</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
